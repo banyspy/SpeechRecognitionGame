@@ -1,5 +1,5 @@
 # SpeechRecognitionGame
-This repository contains simple game made with unity and speech recognition API.
+This repository contains simple game made with unity(2020.3.36f1 LTS) and speech recognition API.
 
 The project utilize google's speech recognition API to translate voice of user into text, sent back to game to be used later.<br>
 This project use **[plugin](https://github.com/oshoham/UnityGoogleStreamingSpeechToText)** to be the API between unity and google's cloud to use speech recognition from google.
@@ -21,4 +21,4 @@ When player collide with box, a window that show the word in the middle of scree
 Your objective is to say that word correctly in time.
 If you say it either incorrectly or too late, you will miss a score for that box.<br>
 
-After you collect all box a screen that display scores will show up, with option to proceed to next stage, repeat, or go back.
+After you collect all box a screen that display scores will show up, with option to proceed to next stage, repeat, or go back. Once you finish all stage, you will greet with credit screen and go back to main menu.
