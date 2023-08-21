@@ -6,6 +6,9 @@ This project use **[plugin](https://github.com/oshoham/UnityGoogleStreamingSpeec
 Shout out to **[oshoham](https://github.com/oshoham)** the creator of said plugin.
 
 # How to use this project
+Simply download the project and then execute **SpeechRecognition.exe** file and the game will start.
+
+*Below refer to the source code for the project itself which is not upload yet*<br>
 Open this project in Unity editor and you may edit the project or build it into game and try.<br>
 
 # Important
